@@ -1,0 +1,2 @@
+# PatentDocumentInformationExtractor
+PatentDocumentInformationExtractor(KOR)
